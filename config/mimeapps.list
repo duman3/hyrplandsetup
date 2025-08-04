@@ -1,0 +1,27 @@
+[Added Associations]
+text/plain=org.gnome.TextEditor.desktop;userapp-sudo nano grub-KCL3Y2.desktop;
+application/x-shellscript=org.gnome.TextEditor.desktop;
+inode/directory=vlc.desktop;
+image/jpeg=firefox.desktop;pinta.desktop;com.xnview.XnViewMP.desktop;
+application/json=org.gnome.TextEditor.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-FC1RZ2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-FC1RZ2.desktop;
+text/x-csrc=org.gnome.TextEditor.desktop;
+text/markdown=com.github.marktext.marktext.desktop;
+application/vnd.flatpak=org.kde.discover.desktop;
+application/vnd.flatpak.repo=org.kde.discover.desktop;
+application/vnd.flatpak.ref=org.kde.discover.desktop;
+audio/mpeg=vlc.desktop;
+audio/vnd.wave=vlc.desktop;
+image/x-adobe-dng=com.xnview.XnViewMP.desktop;pinta.desktop;vlc.desktop;firefox.desktop;
+video/mp4=com.xnview.XnViewMP.desktop;
+application/epub+zip=org.kde.ark.desktop;io.github.troyeguo.koodo-reader.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-FC1RZ2.desktop
+message/rfc822=userapp-Thunderbird-FC1RZ2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-FC1RZ2.desktop
+audio/mpeg=vlc.desktop
+audio/vnd.wave=vlc.desktop
+image/jpeg=com.xnview.XnViewMP.desktop
+application/epub+zip=io.github.troyeguo.koodo-reader.desktop

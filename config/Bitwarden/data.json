@@ -1,0 +1,1154 @@
+{
+	"stateVersion": 68,
+	"global_desktopSettings_openAtLogin": false,
+	"global_desktopSettings_window": {
+		"width": 864,
+		"height": 1115,
+		"isMaximized": true,
+		"displayBounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1728,
+			"height": 1152
+		},
+		"x": 0,
+		"y": 0,
+		"zoomFactor": 1
+	},
+	"global_config_byServer": {
+		"https://api.bitwarden.com": {
+			"featureStates": {
+				"pm-10308-account-deprovisioning": true,
+				"pm-12337-refactor-sso-details-endpoint": true,
+				"pm-15493-restrict-item-deletion-to-can-manage-permission": true,
+				"pm-14439-policy-requirements": false,
+				"pm-18630-sso-external-id-visibility": true,
+				"pm-16811-optimize-invite-user-flow-to-fail-fast": false,
+				"event-based-organization-integrations": false,
+				"pm-21695-optimize-nested-traverse-typescript": true,
+				"pm-19917-separate-custom-role-permissions": false,
+				"pm-9112-device-approval-persistence": false,
+				"pm-9115-two-factor-extension-data-persistence": false,
+				"email-verification": true,
+				"unauth-ui-refresh": false,
+				"pm-14938-browser-extension-login-approvals": false,
+				"pm-16117-set-initial-password-refactor": false,
+				"pm-16117-change-existing-password-refactor": false,
+				"pm-17128-recovery-code-login": false,
+				"idp-auto-submit-login": true,
+				"use-tree-walker-api-for-page-details-collection": true,
+				"inline-menu-field-qualification": true,
+				"inline-menu-positioning-improvements": true,
+				"ssh-agent": false,
+				"ssh-version-check-qa-override": false,
+				"generate-identity-fill-script-refactor": true,
+				"delay-fido2-page-script-init-within-mv2": true,
+				"notification-bar-add-login-improvements": true,
+				"block-browser-injections-by-domain": true,
+				"notification-refresh": false,
+				"enable-new-card-combined-expiry-autofill": true,
+				"macos-native-credential-sync": false,
+				"inline-menu-totp": true,
+				"PM-8163-trial-payment": false,
+				"pm-17772-admin-initiated-sponsorships": true,
+				"use-pricing-service": false,
+				"pm-12276-breadcrumbing-for-business-features": false,
+				"pm-19422-allow-automatic-tax-updates": true,
+				"pm-199566-update-msp-to-charge-automatically": true,
+				"pm-19956-require-provider-payment-method-during-setup": true,
+				"use-organization-warnings-service": true,
+				"pm-20322-allow-trial-length-0": true,
+				"pm-21092-set-non-us-business-use-to-reverse-charge": true,
+				"pm-21383-get-provider-price-from-stripe": true,
+				"pm-14466-risk-insights-critical-application": true,
+				"enable-risk-insights-notifications": true,
+				"return-error-on-existing-keypair": true,
+				"PM-4154-bulk-encryption-service": true,
+				"pm-12241-private-key-regeneration": false,
+				"argon2-default": false,
+				"userkey-rotation-v2": true,
+				"ssh-key-vault-item": false,
+				"use-sdk-for-decryption": false,
+				"pm-17987-block-type-0": true,
+				"native-carousel-flow": true,
+				"native-create-account-flow": true,
+				"import-logins-flow": true,
+				"app-review-prompt": true,
+				"mutual-tls": true,
+				"single-tap-passkey-creation": true,
+				"single-tap-passkey-authentication": true,
+				"enable-pm-bwa-sync": false,
+				"anon-addy-self-host-alias": true,
+				"simple-login-self-host-alias": true,
+				"enable-pm-flight-recorder": false,
+				"mobile-error-reporting": false,
+				"android-chrome-autofill": false,
+				"enable-pm-prelogin-settings": false,
+				"app-intents": false,
+				"persist-popup-view": true,
+				"storage-reseed-refactor": true,
+				"web-push": false,
+				"installation-last-activity-date": true,
+				"ipc-channel-framework": false,
+				"desktop-send-ui-refresh": false,
+				"pm-8851-browser-onboarding-nudge": false,
+				"pm-9111-extension-persist-add-edit-form": false,
+				"security-tasks": true,
+				"cipher-key-encryption": false,
+				"pm-18520-desktop-cipher-forms": false,
+				"pm-19941-migrate-cipher-domain-to-sdk": false,
+				"pm-10609-end-user-notifications": false,
+				"phishing-detection": false,
+				"pm-16442-remove-card-item-type-policy": false
+			},
+			"version": "2025.6.2",
+			"gitHash": "ffe136b7",
+			"server": null,
+			"utcDate": "2025-07-02T16:17:31.772Z",
+			"environment": {
+				"cloudRegion": "US",
+				"vault": "https://vault.bitwarden.com",
+				"api": "https://api.bitwarden.com",
+				"identity": "https://identity.bitwarden.com",
+				"notifications": "https://notifications.bitwarden.com",
+				"sso": "https://sso.bitwarden.com"
+			},
+			"settings": {
+				"disableUserRegistration": false
+			}
+		}
+	},
+	"global_applicationId_appId": "ff30515e-cae0-481e-896f-6a143ff34fe4",
+	"global_account_accounts": {
+		"5fef985e-6ee6-4be4-a74c-b1a100a8178c": {
+			"email": "daniele.uman@gmail.com",
+			"emailVerified": false
+		}
+	},
+	"global_account_activity": {
+		"5fef985e-6ee6-4be4-a74c-b1a100a8178c": "2025-07-02T16:18:12.083Z"
+	},
+	"global_account_activeAccountId": "5fef985e-6ee6-4be4-a74c-b1a100a8178c",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_environment_environment": {},
+	"5fef985e-6ee6-4be4-a74c-b1a100a8178c": {
+		"keys": {
+			"cryptoSymmetricKey": {}
+		},
+		"profile": {
+			"userId": "5fef985e-6ee6-4be4-a74c-b1a100a8178c",
+			"email": "daniele.uman@gmail.com"
+		}
+	},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_userDecryptionOptions_decryptionOptions": {
+		"hasMasterPassword": true
+	},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_vaultTimeoutSettings_vaultTimeoutAction": "lock",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_vaultTimeoutSettings_vaultTimeout": "onRestart",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_token_accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkJDMzZDMjE0REI0OEYyMzVCNzdEQTNGMTcyMEMxQTM1QTk2MkVBNDNSUzI1NiIsIng1dCI6InZEYkNGTnRJOGpXM2ZhUHhjZ3dhTmFsaTZrTSIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2lkZW50aXR5LmJpdHdhcmRlbi5jb20iLCJuYmYiOjE3NTE0NjIyMzQsImlhdCI6MTc1MTQ2MjIzNCwiZXhwIjoxNzUxNDY1ODM0LCJzY29wZSI6WyJhcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsiQXBwbGljYXRpb24iXSwiY2xpZW50X2lkIjoiZGVza3RvcCIsInN1YiI6IjVmZWY5ODVlLTZlZTYtNGJlNC1hNzRjLWIxYTEwMGE4MTc4YyIsImF1dGhfdGltZSI6MTc1MDgzNzkzOSwiaWRwIjoiYml0d2FyZGVuIiwicHJlbWl1bSI6ZmFsc2UsImVtYWlsIjoiZGFuaWVsZS51bWFuQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwic3N0YW1wIjoiRU9VU0IyN0VHSENISVM0WFNPR0s3RFpOQTJaM0xDNTMiLCJkZXZpY2UiOiJmZjMwNTE1ZS1jYWUwLTQ4MWUtODk2Zi02YTE0M2ZmMzRmZTQiLCJkZXZpY2V0eXBlIjoiTGludXhEZXNrdG9wIiwianRpIjoiQzVGNDgwQTcwMkRCQzQxQ0VBOEQxRjREOTIwN0IyNzYifQ.R_ERkoXewyjrMAIa9iJBrGIrFd2bFSxqmz8NR-hptt99ArNQ7T7rCaR13t0_8KKFcBOfKvjd1Guu7FJBaURCZCvwelbJrNCOFFXofQrCVe1qX6im7qKt2mwIR829NVbRKhaifegYPN4tPmTkxQe2K2GY-7ObkbRY__apZXioQZlA7oR0dbZZ8k8o45tD9XsZdjMSlW0POllZSJuck1k2-UzpDFYw4O1hhWBpsuTYe_cJT6_6yilw2F2JBrMTm3XXmJRRwZueuprN-ZGpZQg91lkcbY37PhByzFvsEFd889BLLKWVmLb-qrJj76OuRsvvtBaWlKiAf4MOt3xNdmZOgp0WUGMQb1tL97lIj8-vKtk4OZFDWJekGEVUaKmjV-Pfnf_FxXyCdzLBxQ_gFuwGuVnNyHOleSOlYu7_Gv3Ivtaw9kVSTUGByVPVZGbgpP6a9YaFZsUAjBvJGRsU8Arrb9WmYPre3HAhxWAv0iHAU0ZAQUhwLU4H0_E9AIq_tzJen5pSmT3zSd9a7sVkfhehY_QBWcYNxq7QNb5EPnH5q3XYbNZTouX5XFqVkV59y4625lV0K0oHK0CFfz0_BbFoK96TvwBnZU9RhZzg_2HYhE9IcBj-KHPVqzId1XBBfT8I0Kv4VyvQMs-h3nEjYORJQbsReS00y1JnHX47RXAx-E4",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_token_refreshToken": "43EB1AFCFBA652C7C0529C9E2AAF08A94A0E6788E9CCCADA6DF4EDD9BE9DA8E3-1",
+	"global_clearEvent_logout": [
+		{
+			"state": "kdfConfig",
+			"key": "kdfConfig",
+			"location": "disk"
+		},
+		{
+			"state": "billing",
+			"key": "accountProfile",
+			"location": "disk"
+		},
+		{
+			"state": "masterPassword",
+			"key": "masterKey",
+			"location": "memory"
+		},
+		{
+			"state": "masterPassword",
+			"key": "masterKeyHash",
+			"location": "disk"
+		},
+		{
+			"state": "masterPassword",
+			"key": "masterKeyEncryptedUserKey",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "userKey",
+			"location": "memory"
+		},
+		{
+			"state": "crypto",
+			"key": "everHadUserKey",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "privateKey",
+			"location": "disk"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "isIndexing",
+			"location": "memory"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "searchIndex",
+			"location": "memory"
+		},
+		{
+			"state": "crypto",
+			"key": "providerKeys",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "organizationKeys",
+			"location": "disk"
+		},
+		{
+			"state": "token",
+			"key": "securityStamp",
+			"location": "memory"
+		},
+		{
+			"state": "keyConnector",
+			"key": "usesKeyConnector",
+			"location": "disk"
+		},
+		{
+			"state": "providers",
+			"key": "providers",
+			"location": "disk"
+		},
+		{
+			"state": "organizations",
+			"key": "organizations",
+			"location": "disk"
+		},
+		{
+			"state": "folder",
+			"key": "folders",
+			"location": "disk"
+		},
+		{
+			"state": "collection",
+			"key": "collections",
+			"location": "disk"
+		},
+		{
+			"state": "ciphersMemory",
+			"key": "decryptedCiphers",
+			"location": "memory"
+		},
+		{
+			"state": "ciphers",
+			"key": "ciphers",
+			"location": "disk"
+		},
+		{
+			"state": "encryptedSend",
+			"key": "sendUserEncrypted",
+			"location": "disk"
+		},
+		{
+			"state": "domainSettings",
+			"key": "equivalentDomains",
+			"location": "disk"
+		},
+		{
+			"state": "policies",
+			"key": "policies",
+			"location": "disk"
+		},
+		{
+			"state": "sync",
+			"key": "lastSync",
+			"location": "disk"
+		},
+		{
+			"state": "environment",
+			"key": "cloudRegion",
+			"location": "memory"
+		},
+		{
+			"state": "config",
+			"key": "serverConfig",
+			"location": "disk"
+		},
+		{
+			"state": "eventCollection",
+			"key": "events",
+			"location": "disk"
+		}
+	],
+	"global_clearEvent_lock": [
+		{
+			"state": "masterPassword",
+			"key": "masterKey",
+			"location": "memory"
+		},
+		{
+			"state": "crypto",
+			"key": "userKey",
+			"location": "memory"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "isIndexing",
+			"location": "memory"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "searchIndex",
+			"location": "memory"
+		},
+		{
+			"state": "ciphersMemory",
+			"key": "decryptedCiphers",
+			"location": "memory"
+		}
+	],
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_masterPassword_masterKeyHash": "9TRwdk2RtqAprV4m9tcmgcMIKuMVj32tT92QsfganZE=",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_crypto_everHadUserKey": true,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_pinUnlock_pinKeyEncryptedUserKeyPersistent": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_crypto_privateKey": "2.fn+EfemOsQ7Q3zjNVJa8Ig==|liYVPjIgpnlB6fX4W3OSU++4/qhNVOex+TN5CRVfVdtterL5amMLcstuu1AU7+KJYOgKZo4j6UV6gx6eZPLik23zVgoyFUCAQsnobcBXiTKBuYBHRK5F33EjttFhwTKkIVxpS5peFgQmkn2vKEby5eLjsvac1fraOBVMOI9LO+bNKqXO24eGu6WuG8lbwvWAqzGKVRcon7nL2AwvONbbMtMCWvKhlfmrYQ4Dd1Xu7Vhec+KEaZ5d2xNdcfqTbPKXqKXdsQAxFn1e8l0Z3DMZbS1MoetFZpJ0S3viT9jFM+e6Z8+Squ2FgZiTNOW69tyJaPUWAzCiOUV3nnTFkX0jSzlbYPI2N2MeyVBxE8Fsf/xjBWWrBz6d2E6GY51D/7swYoAMWc2tuusv8FiMwuVxfAZvQugdrKVBZDRAG7WIbhypgMThNAfqKya/h9oNE6EkXcd8oJlZ5s8sFDEpokHTM+LfiNCszPR/ZhlMk2Ws4srgOGyQFebTD2VVV/O7PzkpU8rM7BaBetD+RKBlvAY9Uc9VklZwwmfvmKoHvgJRmswxBlVasN6mhda1u930pe4vAw4BkFZjagNIPAWseCu3I0bRlujFD98l14LEdY00SvDGz86QbjcnEcXYDBPMiMLpE4+8FgdJXjkYKj35I5e5V+3OGHYbDk4tH8ETDktG9+vXQY1qBIPn/CaayUqgADL632MgJUOV9tJO81oEb3oXjlDw9o+mEqVQFvIm3dTLsYJ0PkyRqtMbkj1qGohIFIaWvPLamNAjISdxYkp+lza9qbL8IC57V9c/qHLc9tfVh3Im0scooZuEEizUGr2RuACSfjBfdeDjIfnvVnIeGR7OgEuK1dzBPgOFtbXiKI/wFrm482FCYUu/bEmMTzdDCEafdYi9HH+5yMentqAnGgB+XrhQT3YqSvj1Z1ZX+/Bf0M5rCyQKWz4GwSi5I8Diq/Ijp6YYv0kTNTVZ7nvaQaUFHted29Ga8tQHCS5Mj7KUEt5ZMY++yDkN/AUg7AmKVdmQko0FkHb/QV6x/gWUtv290hvXbmBOsv6OpXaTD/zli/tWbzzCQsf8LF/prErn0rUD/AwlSTwyEUKpHCetkRJsltuZbBpkUc7IZDDX8drpzXryNd0cqsqcgqfaC3mF8vx51ot1pPkAhHZQJIj93Mgx9Z0ckDPcNxteQGANr8Xmy08EHsoNSKntHlxCr5laRIp2RUm3nRRyx0yTIcgxjkGhYkphlEe41clerCRwNxG8C0WrLGbLSpkUQufyMWJ1aIkKBzKjG71n/wf69BlZDJ7tEqHEY2QlpAoYqilAVdiTZ3BCAg8+mTGlq1jdDkDj95UrtOA1wa1Z7QccDvF26ukNsPuGNoeN+lFvY1AjElH4tZPAjQ63TeNG+9mDEY+/J22OzSumvyY1uE7XjsHmRDnlNF+efdoX/GYEKYO8/N5Y+siKoBbwfLYgdWsvqucUtOiQu6EDy7GYsbF/Sb062+bIl1a/p6y7LUig6OnQpPr3ZWCjuH8NdbLdSx4SInoR3u0xyYTzD9aBR4kl2/KbBwCvUHY0dUk/wUeJyHFopShrFkDle3sYlK2Gi30TwNzzF/6/8BUcZpwxOY4492Wlr5fG8kGvvlH0gmeS8I6e44V5bWo=|H+JKzCkxhCuZ5EZes5WOYvf0SKOuwLSRWYle/juN3Y8=",
+	"global_loginEmail_storedEmail": "daniele.uman@gmail.com",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_crypto_providerKeys": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_crypto_organizationKeys": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_avatar_avatarColor": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_keyConnector_convertAccountToKeyConnector": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_collection_collections": {},
+	"global_biometricSettings_promptCancelled": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_biometricSettings_clientKeyHalf": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_pinUnlock_userKeyEncryptedPin": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_pinUnlock_oldPinKeyEncryptedMasterKey": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_token_apiKeyClientId": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_token_apiKeyClientSecret": null,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_kdfConfig_kdfConfig": {
+		"kdfType": 0,
+		"iterations": 600000
+	},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_billing_accountProfile": {
+		"hasPremiumPersonally": false,
+		"hasPremiumFromAnyOrganization": false
+	},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_masterPassword_masterKeyEncryptedUserKey": "2.ymUihlQQ2LZtxxNljMO9vw==|6E7JtQj8RxrW26Z01D4agQ8hLWj/8eDwTICas7uNxdAjUlwuyN7XGQj/vpxj3qr4BB0XEmZw4QW/0Strq38LVDHPcYPOEL4Z3/6g46nZbvM=|sa/LB0ToitdsLjVJAVRysxy/EXnzYklpbXfoE6liFFE=",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_config_serverConfig": {
+		"featureStates": {
+			"pm-10308-account-deprovisioning": true,
+			"pm-12337-refactor-sso-details-endpoint": true,
+			"pm-15493-restrict-item-deletion-to-can-manage-permission": true,
+			"pm-14439-policy-requirements": false,
+			"pm-18630-sso-external-id-visibility": true,
+			"pm-16811-optimize-invite-user-flow-to-fail-fast": false,
+			"event-based-organization-integrations": false,
+			"pm-21695-optimize-nested-traverse-typescript": true,
+			"pm-19917-separate-custom-role-permissions": false,
+			"pm-9112-device-approval-persistence": false,
+			"pm-9115-two-factor-extension-data-persistence": false,
+			"email-verification": true,
+			"unauth-ui-refresh": false,
+			"pm-14938-browser-extension-login-approvals": false,
+			"pm-16117-set-initial-password-refactor": false,
+			"pm-16117-change-existing-password-refactor": false,
+			"pm-17128-recovery-code-login": false,
+			"idp-auto-submit-login": true,
+			"use-tree-walker-api-for-page-details-collection": true,
+			"inline-menu-field-qualification": true,
+			"inline-menu-positioning-improvements": true,
+			"ssh-agent": false,
+			"ssh-version-check-qa-override": false,
+			"generate-identity-fill-script-refactor": true,
+			"delay-fido2-page-script-init-within-mv2": true,
+			"notification-bar-add-login-improvements": true,
+			"block-browser-injections-by-domain": true,
+			"notification-refresh": false,
+			"enable-new-card-combined-expiry-autofill": true,
+			"macos-native-credential-sync": false,
+			"inline-menu-totp": true,
+			"PM-8163-trial-payment": false,
+			"pm-17772-admin-initiated-sponsorships": true,
+			"use-pricing-service": false,
+			"pm-12276-breadcrumbing-for-business-features": false,
+			"pm-19422-allow-automatic-tax-updates": true,
+			"pm-199566-update-msp-to-charge-automatically": true,
+			"pm-19956-require-provider-payment-method-during-setup": true,
+			"use-organization-warnings-service": true,
+			"pm-20322-allow-trial-length-0": true,
+			"pm-21092-set-non-us-business-use-to-reverse-charge": true,
+			"pm-21383-get-provider-price-from-stripe": true,
+			"pm-14466-risk-insights-critical-application": true,
+			"enable-risk-insights-notifications": true,
+			"return-error-on-existing-keypair": true,
+			"PM-4154-bulk-encryption-service": true,
+			"pm-12241-private-key-regeneration": false,
+			"argon2-default": false,
+			"userkey-rotation-v2": true,
+			"ssh-key-vault-item": false,
+			"use-sdk-for-decryption": false,
+			"pm-17987-block-type-0": true,
+			"native-carousel-flow": true,
+			"native-create-account-flow": true,
+			"import-logins-flow": true,
+			"app-review-prompt": true,
+			"mutual-tls": true,
+			"single-tap-passkey-creation": true,
+			"single-tap-passkey-authentication": true,
+			"enable-pm-bwa-sync": false,
+			"anon-addy-self-host-alias": true,
+			"simple-login-self-host-alias": true,
+			"enable-pm-flight-recorder": false,
+			"mobile-error-reporting": false,
+			"android-chrome-autofill": false,
+			"enable-pm-prelogin-settings": false,
+			"app-intents": false,
+			"persist-popup-view": true,
+			"storage-reseed-refactor": true,
+			"web-push": false,
+			"installation-last-activity-date": true,
+			"ipc-channel-framework": false,
+			"desktop-send-ui-refresh": false,
+			"pm-8851-browser-onboarding-nudge": false,
+			"pm-9111-extension-persist-add-edit-form": false,
+			"security-tasks": true,
+			"cipher-key-encryption": false,
+			"pm-18520-desktop-cipher-forms": false,
+			"pm-19941-migrate-cipher-domain-to-sdk": false,
+			"pm-10609-end-user-notifications": false,
+			"phishing-detection": false,
+			"pm-16442-remove-card-item-type-policy": false
+		},
+		"version": "2025.6.2",
+		"gitHash": "ffe136b7",
+		"server": null,
+		"utcDate": "2025-07-02T16:17:44.658Z",
+		"environment": {
+			"cloudRegion": "US",
+			"vault": "https://vault.bitwarden.com",
+			"api": "https://api.bitwarden.com",
+			"identity": "https://identity.bitwarden.com",
+			"notifications": "https://notifications.bitwarden.com",
+			"sso": "https://sso.bitwarden.com"
+		},
+		"settings": {
+			"disableUserRegistration": false
+		}
+	},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_keyConnector_usesKeyConnector": false,
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_providers_providers": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_organizations_organizations": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_folder_folders": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_ciphers_ciphers": {
+		"ce57c73b-4005-4fa7-939e-b1a100ade939": {
+			"id": "ce57c73b-4005-4fa7-939e-b1a100ade939",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T10:34:44.9866667Z",
+			"type": 4,
+			"name": "2.geLxkjw1Wei9958chPWYlw==|8tu7jIK1dmmafh6iUGaAYtoSkuOkQwVGxISFwCjPDxU=|Ocntv1A4F8RNLG6wEQuPbiuB97ykvYVU+pGmcSTNsZI=",
+			"notes": "2.yTjtGdnQpTAlCJCfpBdR9Q==|5UjsMmBc0azrfi+fq9UcE8eVUi3NShs4wB9qMMlComdjiGge5uNUqv+jUaEovhid|GTjhejn7exJKFsSGmf8OxE4nO4fpAWdSf1wpOMiaEeY=",
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:33:11.44Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"identity": {
+				"title": null,
+				"firstName": "2.DdBYbXuJQW3E9sghsYWdrQ==|vKrvWIi7NF/uJeC9iBaHgg==|czk/YWcVY2ydIM0hdLiiLpZwIHT92MSoKM+MFEFVD2w=",
+				"middleName": null,
+				"lastName": "2.3mYtndKq/X3iYz3G6AhY+Q==|CQFNbA6Xuyq2dJbrsPYaZg==|IkiZ58nwRe5lEeN/2YTt8f8JjWNNmPnn8c1npqR6K/s=",
+				"address1": null,
+				"address2": null,
+				"address3": null,
+				"city": null,
+				"state": null,
+				"postalCode": null,
+				"country": null,
+				"company": null,
+				"email": null,
+				"phone": null,
+				"ssn": null,
+				"username": null,
+				"passportNumber": null,
+				"licenseNumber": null
+			},
+			"fields": [
+				{
+					"type": 0,
+					"name": "2.QbAf5q1MNCBlDqitkNiG3w==|psV1g0pX5ky6rb++W2poUg==|k5XKu0gOUsG+ekqTSh4HA+R+huhifTTxahnIJ1quWmU=",
+					"value": "2.EDrrAnJNGs3xhmTMcGVi1w==|ZY01kJXUQSuy/pRGymEsXQ==|fCFnaHuSNHaoOf13vlbMvNMkQd4bcwccRsUvdtOsME8=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.etWlKBtGd5aFh3N85aLhrw==|OmVEAXqF8v4J0RhgWFTLUw==|/7ZFDDnr3yf7ad61fO4cLHb067grbRWw4Lm6DOu5Fms=",
+					"value": "2.Pc8Lpqe4C+gUC9kWkAx0AQ==|cJuu8hrx8ncPJ3BsUMMfsmw1tZpaAgVr5/eNK/dto8o=|ECep+lbfWfGf2rB2MtAQs8IB19OyQquEOvB1rdnSl5k=",
+					"linkedId": null
+				}
+			]
+		},
+		"87ed4def-fddf-455d-ada4-b1a100ab53da": {
+			"id": "87ed4def-fddf-455d-ada4-b1a100ab53da",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T10:29:46.5433333Z",
+			"type": 4,
+			"name": "2.FTEsDVx14aw0zy6M0OqMAg==|7sBLrBvJ7xip8Lfro684Q05WWmhGUCKOLyK00ylzQHI=|DbxPsBSHbDXX7FZ4Qz+jKaiGmJotnYWX0ge3tBgApLA=",
+			"notes": "2.GTKlaP61zZnCMT7678/LGQ==|/XHWVdupu7cGjHs75YBgYO1+g9PZ2Lelp8+f9W5j7dX/pwYFRCsH+nCuFuM4q6CL|ctqm9jTI58SlbJsUvAaB8pMO8B9Zki8qnRwnviIc1tw=",
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:23:46.8633333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"identity": {
+				"title": null,
+				"firstName": "2.XmifGqdl5uCYdnPqEOXv/A==|+3oKI3IOGev16XZDhAEsOA==|UsbxMYBD5Ughn7Kh+xtmz4CaRpIgfUiuVjvmzbPKPSI=",
+				"middleName": null,
+				"lastName": "2.lSSEhraqxf3fUiNeL0nwVA==|Vq+IQx+tVXdywqbYIqJmfw==|pmJ0FCb8EGmyDIshwd1zFsLzzoL+je4aq9Gs3wQmzhM=",
+				"address1": null,
+				"address2": null,
+				"address3": null,
+				"city": null,
+				"state": null,
+				"postalCode": null,
+				"country": null,
+				"company": null,
+				"email": null,
+				"phone": null,
+				"ssn": null,
+				"username": null,
+				"passportNumber": null,
+				"licenseNumber": null
+			},
+			"fields": [
+				{
+					"type": 0,
+					"name": "2.VFqL207E2wpTyr1h3k7wFA==|Hn7M3esQ2dKiNZybIUXN4A==|XmLogF1sWVWsps4TFEM6vKwciMLsD7Gx5JFh++oCmiM=",
+					"value": "2.VEchhxApxDWC/QZl0kiTLg==|28hPQEwsKru0rNRUmsyEZw==|P0l+PRecvEEQYO3kFOvOkRXHuJvxnovp9sOM7jEYRHc=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.HM4zJfCzlHVziONfF0Ypdw==|auf3QK7epQ/bGHOEUoP3mA==|dpI9M04VoPyH4hBZJq7iV4I1D/JGWEo9lWCRc3MGpRE=",
+					"value": "2.w7Lb8W7Flw7T5q8y+TX/Iw==|HMH2LspjH8b7ou5btdflBw==|P9qm+6iS+wZwSVoF8M9GfeZ9PZNJ7w2ZsvpABj4EDlY=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.dRB874ukjOJywxHbOOgikw==|CpUFb+w72m+Eofu2+YcGvQ==|mxg6L1LtDmmeYRQ+ssGu9Oeqv5fW3IfqfbYx7qbnvBY=",
+					"value": "2.j5ITNz/h3hELWaMw8j98AA==|/iSdw410tRx7SolfXjO/Lg==|0hGzgj7ULawxn0UvJV5KmDCe68gw7QT8bzq9mpXWrmM=",
+					"linkedId": null
+				}
+			]
+		},
+		"51c95e56-c021-4555-9b59-b1a100a997c6": {
+			"id": "51c95e56-c021-4555-9b59-b1a100a997c6",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T10:30:01.6833333Z",
+			"type": 4,
+			"name": "2./FZG/V/GVaMJIDlAqqQJYQ==|2XcVnjEXhPENZQ7L6firbPP3BjXAN5WDDkTJCUIhmSc=|LwLnnJ8nRIW4rivRDWyCdzJ7hhDgX7U0lPPNccsw0mk=",
+			"notes": "2.ZV+sTK239pgS7K38mHNkRQ==|B5sH+e0WvpmCvgfVlptRZReqDSjylkbQG4iOxJ7Dot842TQyakdMBO6Eijs2bp99|UXkf0xjTYvwp8b57Un1k+ETZnwpjYSbXZWxy8fl66l0=",
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:17:28.1233333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"identity": {
+				"title": null,
+				"firstName": "2.c09OGI1BohD1eCYqtRE8Rg==|cC8UxVJ/dLV/Epg8yc+vwQ==|GHThlG+eJeyVmF47G3LcsYumDfMm6+8mUq4RnyoO4WE=",
+				"middleName": null,
+				"lastName": "2.U3qEnFKzFJjD9FJ2lk45jw==|Ir+skWJPd6JFstqoqPsm2g==|NDLar+cPfdlF1vcs0rm318uMKS6JMNFOJQfrUGtauQY=",
+				"address1": null,
+				"address2": null,
+				"address3": null,
+				"city": null,
+				"state": null,
+				"postalCode": null,
+				"country": null,
+				"company": null,
+				"email": null,
+				"phone": null,
+				"ssn": null,
+				"username": null,
+				"passportNumber": null,
+				"licenseNumber": null
+			},
+			"fields": [
+				{
+					"type": 0,
+					"name": "2.lUAU3vg3r+KmvyhGcFRiIQ==|jkRXNYjITbYMtaZlCRLUtQ==|9mJwmBfUgG+mGcZF3mld9dJtbw+7wTDGXnS8cV67IXQ=",
+					"value": "2.0t8hCE5dnWkAcW8L/j6NhA==|0ptOqr4OTm9rafj4hgDeDg==|FIDFM/rHSppyyyzGFXMl0fFi0Y0X3WaeQOJajWlY5eg=",
+					"linkedId": null
+				}
+			]
+		},
+		"c4ee6e14-5f13-4d3b-9660-b1a100af8f45": {
+			"id": "c4ee6e14-5f13-4d3b-9660-b1a100af8f45",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T10:39:11.5866667Z",
+			"type": 4,
+			"name": "2.PeyUpu0+/zmKpC6vTvy2zw==|RuoTxPbUaHXTLL6hpmrN81zJjBChaUZy9YNBWrDZgbo=|w4YChu+wTDH5haX50Ka8SBDqFsb4VRxQgyrsn+5vqxA=",
+			"notes": "2.p3jeVkf7sb/1+MMSI6t6GA==|Pujk9+dTRv2BsW6oewDpJksCQJ0782x+os+799CN2Xh2fo/OR71Mk9Bdl7IhGHwq|FtyXkbcqxYGJq6+XBQtsrP4Kpop9anKRhCGR3UEXOXE=",
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:39:11.5866667Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"identity": {
+				"title": null,
+				"firstName": "2.XcV2Q8lbKBF6CUJwfsF1Tg==|EHKK6vjYeTqedbvWssgN9w==|n/oCj2s3c3iD3ku5ZSrKrORtIgMeXkc0/3ff2jtIV6E=",
+				"middleName": null,
+				"lastName": "2.5Xg7XnECqcYAUvdO8KB39w==|+1QlqqAs8xDMUQJojH3FdQ==|glfREuY52lzz6Vwgx3OBVEvheXmqLCDUkH5ip33V8qg=",
+				"address1": null,
+				"address2": null,
+				"address3": null,
+				"city": null,
+				"state": null,
+				"postalCode": null,
+				"country": null,
+				"company": null,
+				"email": null,
+				"phone": null,
+				"ssn": null,
+				"username": null,
+				"passportNumber": null,
+				"licenseNumber": null
+			},
+			"fields": [
+				{
+					"type": 0,
+					"name": "2.MGZsQa/9DEDGTKG/wc/inw==|MtWjuGQZ8EftgbjI4nMfqQ==|oK45uV6SrDeS7PtGKSd+YbFG80z6goaVeMUwGDUXXpw=",
+					"value": "2.+ndqAybCKQ3FoCkS6gCUdw==|EzZNS5aIcXuU+Zo0j6A3vw==|X+29QPmDU8wR+caToeyqun+pv07qJfk3gesfXr8toXE=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.WOZEEqO53oWQYBp7BYujxg==|jcKZyXt+Ddx/AGuAFfi5oQ==|qqTHazKprVPQZ7gX6hCqxkEVVK25jzgKTmRKsSpKD1s=",
+					"value": "2.S0EtaUoYqBZ4Ym/6yXNQJA==|SjOV0actxr0W+kC2s2XnyA==|JIThXwAObTYEobfgbyflLAbYqAVuiiabofRrZiglq38=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.fNQlA8loX5Egh0hitxh03w==|IJlqYe6wGv4R9bv7HVJXYA==|34z/+A4TCSd9kXj9WRBucx6xLk5xsHN8oH27ApE2Nvs=",
+					"value": "2.1PvijH+q8kRKMOpaD5p0GQ==|VvwsgfLaMOHYdoSfUPBpbw==|UIeaDwbCv51Z16fshCQFW1z5fqYamCkdEHqePQdwnqo=",
+					"linkedId": null
+				}
+			]
+		},
+		"45084f2f-88a6-4343-8583-b30d005d268c": {
+			"id": "45084f2f-88a6-4343-8583-b30d005d268c",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2025-07-01T05:39:09.05Z",
+			"type": 1,
+			"name": "2.fwHT7OombmUH4mMw6RK/0A==|BLg8hypIhQoW5yvga0ZU1A==|HcUK2nRdH0LZ5JVN3YPxxcMG/CweCJA7GD+Xaja72IM=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2025-07-01T05:39:09.05Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.7/7HQNc8tVplnUH4p/NFbA==|QHNhMtkY97NMSwvPORlZKg==|K1gWb/OzFVqclLmMW2Ueo7tUojfgdMKB5KHXY7E1dM0=",
+				"password": "2.xC9dBe1EFypIJtDg2T5qsQ==|NryRduhnWy0n3vTdA8zVAdN6AaMzGUcjIL+q8yx1VsM=|Qy4u18NXkYJ1IvJynwsp6968/nNNeVspc652pX0S3hk=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"c46184d3-d7d7-48c4-be98-b27d0141243b": {
+			"id": "c46184d3-d7d7-48c4-be98-b27d0141243b",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2025-02-07T19:29:14.43Z",
+			"type": 2,
+			"name": "2.PSY+10Q8rleFlmzjddPl+w==|n7nu66YcRxXAAqJqFLznEZ5mt+ZMWP9Kq5R3E1n/+OqOI6oL7dNDrxN6nfwcu9epQUzZew+4QuEwylokfpaKLg==|yM2PjyjkNB+qNpBZio/zd5+82hx6XayZj9Yt36m0zcY=",
+			"notes": "2.G7GryX7VSvp2+5PNSqC65g==|XJ8KWPeS9to5/CxFLeaVtA==|hjC/rCtauJSwOS9V5Xoh7UA7pYJZpYDA76f1Nq/IEAw=",
+			"collectionIds": [],
+			"creationDate": "2025-02-07T19:29:14.43Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"secureNote": {
+				"type": 0
+			}
+		},
+		"0754986a-540d-4cf1-9d6f-b25000bbfd99": {
+			"id": "0754986a-540d-4cf1-9d6f-b25000bbfd99",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-12-24T11:24:27.1733333Z",
+			"type": 1,
+			"name": "2.HcRXbUCy+axCw2nBsTT8/A==|9DbB8rHed8W7vTEfKkuG/A==|7xTVkUoxlQ15WOdeONgQPqSqnGa+zDCyAqqHxeoBv8w=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-12-24T11:24:27.1733333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.JEj97ktskM/1/6gVlp/Y7g==|y2Soi8tL/Kurm8a5YSWURqtCxTa/VNIOaAXvrCn/M/g=|AWMG2M1VlD2XCyZ7sPDxcdBLGlmyYxcnj61aulHJ28c=",
+				"password": "2.WRqlpEot2h8L49vg7VpZVA==|ukY12qtx4+idxKHlxdFNyg==|YFI1ZC/UhJlwzimDqZbEilNcHDq69ByO8QCxW9y4xfI=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"5045c982-3308-4ba4-a24f-b1fb012bddfb": {
+			"id": "5045c982-3308-4ba4-a24f-b1fb012bddfb",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-09-30T18:11:46.9633333Z",
+			"type": 1,
+			"name": "2.V89D68zfAk0gkrmVkSJ5YQ==|u+YkE561LC0aKr+2Ktw0wA==|/+wq/8PNAZeekDglDQbhu5nCIBkSyfhcxSsEjMgmD2U=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-09-30T18:11:46.9633333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.CbBZUReSEyH0CuuxOVLLPw==|oT9pUKejHdsV25aZAcy8EQ==|0AX5EPAFMvCo65C7GT4PbO2aPX+CCX/g+keYs+haMT4=",
+				"password": "2.i29KZ1yuxc2jm+hNPZlMcQ==|vM8/pd6qgY1qhESxTV1brg==|QTHebp8SK2NxgauKCmAFn26eu5tNvH4wYdfeR82rljE=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": [
+					{
+						"match": null,
+						"uri": "2.AuKw98ZUnGdRSiFh3nJVXQ==|Yy7IUKrJpous5q+D5zim5c7JBbBoDQATbSDu6MHEiAE=|2nVnXGszn7C/q76Zgc3z4hZUe1KJQvWjqQdkK9vlKTg=",
+						"uriChecksum": "2.pWnz9XAM+Mp5bf11LPIQ6A==|5h+i9Am7rHL2mOwAAsUwKah+vXxiE5ZdeDJsB9sEJ/KCwHyKnHWmNPuGALMtniUF|GPYGDQTE3MZxZlqsecIR5SJ9Bdj3i6CY13Rij10u09s="
+					}
+				]
+			}
+		},
+		"ce606699-7beb-4b49-af68-b1e300a4be75": {
+			"id": "ce606699-7beb-4b49-af68-b1e300a4be75",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-09-06T09:59:48.8633333Z",
+			"type": 1,
+			"name": "2.zdABLu89fBs0LFiDjxiboA==|KVsMhMcOY6rNIwGp08n5Pw==|fqqj/oazNsSN57XQ+uyIItmZ+4qKIZKmqmNNfr6WAck=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-09-06T09:59:48.8633333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": "2.yPEzCsjIKyeRc3hU6ZWnWA==|bZF9xPAB/vAngwiCFEbB1id0A9/HENEbZlVfFO47OIhchhr+XaVA6VMqmoy19b33W+0X22X3ng4D0o0CNg45XxHqeuq1V8kSqLVbCdRMyEA=|b8g4GxBmjkrI+UMjtLf4v0pv1M3MHNp105R9BXz8cWw=",
+			"login": {
+				"username": "2.Wq+PVUier+xjdp+XWirXVA==|dsqHly6hX3NMvidJXp15G8Yc+HirYWirJ2onp5cHwAM=|DdhOJ+8CPShD7xSH9ziDbc1sZwHfKoGHukBzsSivOnY=",
+				"password": "2.gf/px8dXVYaekwyM6YUPyQ==|4zKLqYN9jJnNAcOppD6x/3oJJWl7WNJMJcClRkdMrpo=|lW081Qp8Tp9JwHrb69F9gE0Gb6ZicppxWNPGokbF8+Y=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"ab89bbd4-38b2-4468-bf1e-b1c500da5fb2": {
+			"id": "ab89bbd4-38b2-4468-bf1e-b1c500da5fb2",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-08-07T13:15:04.48Z",
+			"type": 1,
+			"name": "2./fcO4wsbDoaSONAs8sj+qQ==|CFdlnulYnRcQCPGna6UuTg==|/RseFTnBdMtIAgNhkxkFtHt4T1kTE0VKEIqpoQFFmEA=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-08-07T13:15:04.48Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": "2.GPDEFGWAKm/9Dc8TOpfGgQ==|5PkbGGHzklxD8IDxA8uwLGQP/m1E+883AiBKniTNIBlYb44XI2/zx3Egcip8Ms8F73BSb64qF2ND1/G1JcHBI9PMvmzu/eZSyro47IuYUdo=|KSWtzajWnwyNX3+IxZ9bzDogSMAMQuhIZSzlO+e3a/8=",
+			"login": {
+				"username": "2.OoN6Q6Qe9MxxfK9qWx5XVA==|pj6znjzGSIf++nXn5qJJR128bvv8ntVvuFEoqZAoXCI=|rhHD0qsqsFCdmyK+yP8J35OsqHnT6xWmjaZ7pXJGe10=",
+				"password": "2.Zd8z2kuL2wW6cwxGiG7Rqg==|assuWgXF5Paqt/+Oq4nO8Z9+iivu36Qf0lezP9UEzGs=|VPek/rp/4Tp/S2UuxJS2sTWBL5TODfzndJE6/0hqXdc=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"31c7c435-0435-4e4a-a2ef-b1c4010da532": {
+			"id": "31c7c435-0435-4e4a-a2ef-b1c4010da532",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-08-06T16:21:44.9066667Z",
+			"type": 1,
+			"name": "2.RI4RbRm1TZFurwCT/bc/Lg==|WbQHOdcek5Ar4FQ3QMTVYw==|BcHgw3i1k/fwlandqocJ00FQLATPSlKsmcIu3Hw8MPA=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-08-06T16:21:44.9066667Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": "2.VsbxQqZxIWXo+kU9HOn+ZQ==|N7w6HAf6ztV9fSnRgoJDkO/1C4/Cjn5rT5c5O20OYs5Fpgb7EnK/ZI6MbTODTfFZpmaGihDsg25EuiPyZvzvY8+GDewQbtuPEigv2OChd7w=|eD27TTHT5V9fZTsL+lvpaOxBT7OYhvjE9tFYHIZFNJc=",
+			"login": {
+				"username": "2.ium/hn/1cZH7AeXy5vPDbA==|0Bu4FDiCTBLgnIpBp+HcOfwEXLFbeAEb6z2raaovFd8=|5nN/BwlayySJz+EHtIyJ8Xo6NYkXtvMPjPSuhJi2s6c=",
+				"password": "2.dd7T1SH8/44KmP/ev6ThVw==|JIB1/gX4Col7+pZQpMvDjw==|7wzDFCepWlECzohCfWvBbL/6BxJy6iSOFyrprwCbjcU=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"77e82097-ea14-49a4-93f4-b1c4010b79bb": {
+			"id": "77e82097-ea14-49a4-93f4-b1c4010b79bb",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-08-06T16:22:00.78Z",
+			"type": 1,
+			"name": "2.H/SsLAl2vkpim05kMBpCRw==|rob4cpNb5oN417yJTt+pqP3ymgC7BSnVM86UtnrUZhw=|pxSz8WHpGct8DkJ4rojVJwcQfOMcc/bVTEgOeEISOWo=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-08-06T16:13:50.91Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": "2.fBrwTCkZAZWaZA7vlWycBQ==|91xEvPGB41UKU4bR6AX5XOs3FqD0ghfzS874mSa7lXT2fa68gtGFSYf/ey2prhChUGl2InAgDAoVAPM5bhxq8VKdugt7/2OE+GoRIQJrCZQ=|ZIWGuH3hVxGaKYm2VPQ0Dxzr56e2HoL1N5zET0LERAA=",
+			"login": {
+				"username": "2.mpb5e6sREwmlPFFKJfeNjA==|qEgFDZu/YoIjGqBGMcwk+Q==|Al/yI3PEKnl0BuYsVbTANQOalzB0/ZTX8SxXDSaLBHM=",
+				"password": "2.lIDlNeQgutowpfd3EGXfTA==|YDrUzQRDk9n6GcGX6txhDwveZ+Eg1r6IKViDdCpmNJA=|X3W1vcqbffUCRqcTPAOUCLtCEpEnrprBg4Rtl2sB1+Y=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": [
+					{
+						"match": null,
+						"uri": "2.N3Cl53aaO56PPFf57Won3A==|L0LF8Cz485EngGE3iWNBpg==|21/neTDCQD08upd8Zgd7JllnE6sn+dUuu3z4rVjXQG8=",
+						"uriChecksum": "2.bf/+EdMNqQDIxJSF4GgdIQ==|T0A9WYWm1d1OEcL34jZUeVx4MSgeP/DJZ45wfoEaMWwzFCkzNjZyLaWYFt6aWx4N|r6IUigCDnAqLrzr8dkUA9h7B7HpOJTGhidmmMXgR1sE="
+					}
+				]
+			}
+		},
+		"96764d34-36c3-4b0b-8ebd-b1bd008420d4": {
+			"id": "96764d34-36c3-4b0b-8ebd-b1bd008420d4",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-30T08:01:03.85Z",
+			"type": 2,
+			"name": "2.bBJHP+/Alg3mu0n8/HFmXA==|J8XBjZfcAFFyzC6wbZCFpg==|Efn/GZwLyPTLMqp/2NX5czYz6JDT7NcunGcf8h2F42c=",
+			"notes": "2.u1PP5TPZWesDa7tjHUdIiQ==|mSMfgVKLIiScs7rQHW5ykiLhaB3SW/GGcfQ5JS2VhVy2BfpqmbZUcJozOFMjtPOg/hmSBYXXEeC9UghqsvVhLloVQHwQs7/yTiEaHHcSEdYFzjIYJ7PLBFg0JsW+fOtXZye7rPuTCKXPibXXQ4gUjR2XIddrGz13Jy0eUzB4CFnoQvm8ta/QKVXx5gdo+9B9Wv2AspZWf0dLNQrMHQigK7Bo53iDWmSkmxyGIzRskj1f8TDcznQOVKdzLOK58OqQ8mrZdrESjyUJ/ym1CmIuwi412zaBYOF/jDgTobDKs9N1uyfNzCHVkFf+ZbuLTBT+|BicHnHhzq46fzIrYs11xwWRCG/XQNwF+J5dSHl8ADw4=",
+			"collectionIds": [],
+			"creationDate": "2024-07-30T08:01:03.85Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"secureNote": {
+				"type": 0
+			}
+		},
+		"b5ca2254-62c6-4978-9c5b-b1bd008130e8": {
+			"id": "b5ca2254-62c6-4978-9c5b-b1bd008130e8",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2025-06-25T08:04:50.7933333Z",
+			"type": 3,
+			"name": "2.uXh59a5rCNbGoNXjIU1ocQ==|pRNakQmX3yzevTuohHLrp5oVYoUl0uKKbRsuw4hfakA=|yEILh/t7CBZt/nJwdzoOjX93CYDvIKExnBgRawK4ghQ=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-30T07:50:22.2033333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"card": {
+				"cardholderName": "2.UKMYQidh/VgzYCQ+JKbLIw==|a+HFyFjnAM/BF6Ju8LMDZQ==|WNXEj56CT3QMMtz8Wiqp6L0pqAl325H/KrC31TxVC9U=",
+				"brand": "2.fkMc7YgZUucUctBrcI5eLw==|Zv/HQ1gVUCl1pT697fm3Vw==|ANuyj1lXD22wsskOsZhLpF6Zfpqa/NwdE+Rh3Xrv6Xs=",
+				"number": "2.IXE/rJTtAjmSrKkZ3sV0fw==|OqvCtZx2xNELiIHQewNOCCYR1WveH5biMU/RVAAxsPM=|c7aIR2pc4gjfU3lrI5dXPmTbRyp9uum/3nKTJ3W9r54=",
+				"expMonth": "2.9zKi0fLM1kxfKWrPo5PO6w==|Ir1Z2Mvm3JT60PhMYokGOw==|JLmBSyxEmAp8jnQAbXrlq7r2vvWZKXKe6UYtO+zLOD0=",
+				"expYear": "2.V9GpYUVWHTxUk3B5EAWgTQ==|/TIXqQZKlShs5QfXYQQujA==|DExEGxpRR60Tq0IX1FFSYhTP97QKHWZSfWQ1IQM1ljs=",
+				"code": "2.UDITMSkACB6MB0VqiNVung==|8EEk61th/GefPQCnUdGvqA==|/XzfBrBANASixt1K9uiI5Jot3DcGKI496nCo76/KrwA="
+			},
+			"fields": [
+				{
+					"type": 0,
+					"name": "2.vL8P9DlH7aOZ8TNrQAeiOQ==|iCP852Jr9W55NLgyaMK20A==|v7PtLBmQVKVN3CUFAlaGl+nbW+cIxlbOfJbAs6vmcaw=",
+					"value": "2.o8et45D7aw89yJB6qlWJ7g==|Cb6tfDu8W7qF2FoMjFQ+gg==|y0PUg77ywdEPpCPeKgBjtiFnN2exeYSgyHFEjywHu+s=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.hnUuUZQpjn+S3hkKP3VKzg==|v5U7SSXpdZJDmLYbZAVFeg==|hhXWZWP24K/Evg0m2hw1yWqEf0yhVmbX0ezycuosyW4=",
+					"value": "2.w+xFLKdKBazW5bAms/ijKA==|ea52Po8s17RSEeP0U2X8IIWMv44cDcewAstjFmLYJzI=|lzLlqbJsF1SiQ+edVLTQ0WtGo5LchrzKQF8fpSx5a18=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.gsTw1L+lnnl3czpNVw2IFw==|qY02L3x+x5YSCyRGQQPbXA==|BF+4O02THpjwe+PPSMDUuoa7gxQYPApPyMncCKStrEA=",
+					"value": "2.YJM/Sul6Fstb2LS3o9bRLA==|ppC+fLjAjvURh6V5niVNUg==|FOwtg7TrYiYJDBRImCFHJzqanDyp6wnqrLX/tbSYA2c=",
+					"linkedId": null
+				}
+			]
+		},
+		"a5036b99-2251-4066-8178-b1a100ba2d3a": {
+			"id": "a5036b99-2251-4066-8178-b1a100ba2d3a",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T11:17:50.9066667Z",
+			"type": 1,
+			"name": "2.Lo/KotVFw4ZL4dQZ4kojRQ==|DshLw77oBqn35YXTQVWGKg==|vIAByan6/EMDyS9rqz865A1mSpKLyUhIuc3z6qwi8dg=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-02T11:17:50.9066667Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.yJK1Vb03awyL64JE7RdFEw==|NWD6aC19rfFxU024CCmmrGkr25Cs/oT4IXj2VvK6OC4=|MSoZT4rN9bKULhm+x7iOR//IbRFyedmeLD6+7nE8Tcs=",
+				"password": "2.1JWTZD6+ibhOrX1wdsNR0A==|j2gmv+L3Yc+lNFw5/Y07ruDlaP1/FdLswyq96a0j2dc=|nmOuvjnBrafSnAGLfGPukmFDY2qEBpfRl1zxPWsfizk=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"cc832dfa-f031-43cf-933b-b1a100b60c90": {
+			"id": "cc832dfa-f031-43cf-933b-b1a100b60c90",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T11:02:49.22Z",
+			"type": 1,
+			"name": "2.DBk5wbJDh5rObRSzyFHBhw==|K+YdrL5tI9KyEpNfE002DA==|J0hc1osoqDHUSRmEBlf14dG2WgJeP4YABZFNZfPfess=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-02T11:02:49.22Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.0IEc6XS3o47iRXPhZ70I3Q==|hhHlbZ5hAM9i2Y9jqKUENDyUT0b953ohyrvZExJfdEw=|Kn/WlaOU35WBVpfXaN7pKScDfxuAzxy9ilNdpQkH3js=",
+				"password": "2.wXL7Klwyk0AXdcchsuFDoA==|X46vnSfqHHAWwdnCQ1ioY6rWdwttXrn6ksj/VcY+wgk=|lYEdmy81ipTPhJjTlQTxooGepU8GoKN0dDi4uRjcbso=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"cca1d60d-400e-4bfd-801b-b1a100b3aa30": {
+			"id": "cca1d60d-400e-4bfd-801b-b1a100b3aa30",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T10:54:08.3666667Z",
+			"type": 1,
+			"name": "2.WBwIhO8XSI/wyb5jg8EWEA==|QHG7TOCSOro/jdHdXsU5Kw==|qKGHw7l8Hmd3pjfWe/vhi/HWyJnwXcgjHB4dRGAVrWY=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:54:08.3666667Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.6Dx2gNRC2W8wowMbvOVomg==|YxJiy7ilDXfrjuSOFG6VxZp0odvUXEc3x+VKC6pzTP0=|Q01rU+6o3jS50BWtNxYIGMmV1hT1hbuLetMtAgXBqn8=",
+				"password": "2.AJOMrcRIasytbqxXyfVlYw==|dP7ZajbJnZ2E+Qc8Tax7F41SbKakU9mKHkhPlmQyHF4=|l67v7MH4K8TzdRR/bqtknEUsFkoyrTyCRILTMO1FtEg=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"c5a48cf4-7bb7-4309-af98-b1a100b2f9f8": {
+			"id": "c5a48cf4-7bb7-4309-af98-b1a100b2f9f8",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T10:51:37.9933333Z",
+			"type": 1,
+			"name": "2.l9dr0LwzldldYguB8ZVs7Q==|PSvtOt0IoL60YgV8LRdZbw==|GySnD8CmAnEtPWubjT2QJaSYAKRii12iFascF8jWK/s=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:51:37.9933333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.dUiyWb/NKh+GCFapNif11A==|0BDaz7DISPQc3pbZbidsDpHPtFVUKEwCUZc5bjwXNJs=|NerTP7ZR1UDvYJaAYhXylBYNuoz6MNMyFvrlhMMN8oU=",
+				"password": "2.oU+JSCDsTH9IpeRO6SPkCg==|ch/tFqoQjyHtYtNWvQUXUv192hdtCQOL8ezpatr5VmY=|eoJIStP+JAWxtvE8rU+VygtBINf6jCU6KstX6UsZRgg=",
+				"passwordRevisionDate": null,
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			}
+		},
+		"d672d315-6416-4cbd-9686-b1a100b28b6a": {
+			"id": "d672d315-6416-4cbd-9686-b1a100b28b6a",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T11:13:20.0666667Z",
+			"type": 1,
+			"name": "2.XElpEPEA+T6Z9Rq2t3U+6g==|RNbuaWo9eivO7hblJfK5RA==|ze3B8D/o/MiVhwosAMwcmWz5MZaNx3+bscIc06Whgq0=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:50:03.6533333Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.SPYRy/PFv52yMGFEjjfCHA==|33UjkTs1UlRMW2ZgsQ4biA==|i/y6PPNYyVPbnNGb+FWn6E7GY7emFch5XRl5eGdJRpo=",
+				"password": "2.asM/AwMRgfdvrtehXTQTsw==|zR/Pomf/wkwRYwrcNQQ5Qq9bBNeQYNNE6ZZwVBwOaxE=|vJQVIzGRR26sQ5vIcK6yEomf5koUfhEHIOIRkfClKgI=",
+				"passwordRevisionDate": "2024-07-02T11:13:18.471Z",
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			},
+			"passwordHistory": [
+				{
+					"password": "2.GTCEQ3rZiTSbowXg1zILAg==|wuERfxJTPZZ92GEO2sDnj4Jxrxxtckyc8zh7mWoqK/c=|ptljZRNYWxvGxD+46xyXYBR8I80I9m+6qoCV5TPE1BE=",
+					"lastUsedDate": "2024-07-02T11:13:18.471Z"
+				}
+			]
+		},
+		"23d40d59-147d-45b8-b2ad-b1a100b1ef12": {
+			"id": "23d40d59-147d-45b8-b2ad-b1a100b1ef12",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-07-02T11:27:50.0966667Z",
+			"type": 1,
+			"name": "2.evKXMFrs3d3QHsRn6rxl1A==|MabbYIExldMOXNvvMkMXPw==|gBYc4z03+jNU7nK4usY3gy2L7xxw+EdJAr0KVf7PyAQ=",
+			"notes": null,
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:47:50.24Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"login": {
+				"username": "2.+UO16B5La/4rZOYZ/5aaig==|XheL5GglCadA4E9gqdF0eg==|4Dh+wHC6qhaK7ys9ff4m1qyfoDU5YeD7MjGw8RI9YaY=",
+				"password": "2.xDjaFGPjPNTwfaJ7jlCzkw==|MtGlT72rhWM38ApRAfZNhMkvfHO7ao0KT9XNkjyq8QU=|/63rpefbKtqQNrbriJqzdo/Z4pK4RBdKk6Hqm00egQw=",
+				"passwordRevisionDate": "2024-07-02T11:27:49.79Z",
+				"totp": null,
+				"autofillOnPageLoad": null,
+				"uris": []
+			},
+			"passwordHistory": [
+				{
+					"password": "2.Vc7nDT3EjKImv7rug+2TlQ==|hyDg8fhQritmq4koRPbyMg==|zXdM3IY0R+69e0naUrUZGJir3RMd/k1hlDOB1zfbXZ8=",
+					"lastUsedDate": "2024-07-02T11:27:49.79Z"
+				}
+			]
+		},
+		"01ad0867-6df7-4b70-93d6-b1a100b035cd": {
+			"id": "01ad0867-6df7-4b70-93d6-b1a100b035cd",
+			"organizationId": null,
+			"folderId": null,
+			"edit": true,
+			"viewPassword": true,
+			"organizationUseTotp": false,
+			"favorite": false,
+			"revisionDate": "2024-12-10T09:26:38.1133333Z",
+			"type": 3,
+			"name": "2.EgWOva3DlqKT3dvdfIqamg==|Nifl63ModRHNMcHQIUCtTR/kV66VQhZPAGWre+dOTAE=|gtsUUHLY1g33SI4T6JJEXRV5AGQaQAaaqkHOrLEAhbg=",
+			"notes": "2.kZZ6oErcBZkGgW6Uho3Dxg==|TNekl1yZo2G29OqBVxTeA9MfUvq7b8Nf/6R/VdjetAtsKPc9OHjqitWa2SIPbSev|GyIek2sj/OiStOuEhcIfnypRME4J47qxDIRWsHtcnHw=",
+			"collectionIds": [],
+			"creationDate": "2024-07-02T10:41:33.69Z",
+			"deletedDate": null,
+			"reprompt": 0,
+			"key": null,
+			"card": {
+				"cardholderName": "2.J3uQVbhh2YMUC6r7JiXWOw==|lFWKqh8/YsG6h4SN3SsxeA==|pebhlrFH7EO5s7vCegWJcuY5PiBnF2Cx1BsXnf/Beuw=",
+				"brand": "2.MIpEdGA0k+kDrO86T7SQug==|0TlhdzhGDuG8vVBpL6NMAw==|wdnqceROIBV6RSRaFa7WUJs+4BsCvxuXR4dd9FbyyQs=",
+				"number": "2.RHnFrtX+O0aeuIYxIkVWHA==|fX/QTo+miKnc7Ki0EWwDLrs5iBh/gPCWnB2zGh1VML0=|iHEmTTpocxHZQb0GllxbOv2NjNwRk5b1YSRAs+l3MaE=",
+				"expMonth": "2.6a7Dblx6G5nVxPMLkN76GA==|m0E637nWOak/7QtomZZEng==|W6RvH0Y1d+WpFJM9vhECzsl8jyqnhU4JcgzoLhgTY4Q=",
+				"expYear": "2.sUCAabvYVbQ9yyD8ol+8EQ==|J2xtTPZiKCwAC9gXySySNQ==|L+5iuvwY7G4zNqHdyugoOq+bHw+lRjfdBemjNH/hHg0=",
+				"code": "2.jnN5rx1kiLTthVbqrkP5dw==|DyGVrOkZI5OAkpcCEBBkvw==|qU8fBZOSSoCEsP5Wma0Yf0kaGajA5bh8fF/4JL8DnbQ="
+			},
+			"fields": [
+				{
+					"type": 0,
+					"name": "2.I0602pVxewwwPpzbFfVcCw==|TlHc1ghWS7v31zfvGCEZxQ==|VKZrLKnYIFmIYhPL9lXg9VJq9yzp5yGsnGKBOffAlOM=",
+					"value": "2.9ecdOjf0XyKoasfRi5WBoQ==|jUVKRmmSSVrtIMoc+Ke3RQ==|RuIpgeGZjAYW5y8OHQ8YI8I+nqzeuvWokAanWMJNwt8=",
+					"linkedId": null
+				},
+				{
+					"type": 0,
+					"name": "2.81HkTwwhLkZ1oceJPyUoWw==|i/bElQWWfwNgHMZ1ZBqVhA==|RwZsXqKBxrTeIQpImzwBkaT98y1Vie2wRp8KAH9maEY=",
+					"value": "2.ZoWDJ/fdy8PrOztlVvC4Xw==|Wojfjdo8atnGEfzKGus6lY/s1z/zGiVmhgPFHtLCK1k=|dpHPmP7b8IfObKwkllajkDgyPR9d0/pxSJE6uMxIgWk=",
+					"linkedId": null
+				}
+			]
+		}
+	},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_encryptedSend_sendUserEncrypted": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_domainSettings_equivalentDomains": [],
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_policies_policies": {},
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_sync_lastSync": "2025-07-02T16:17:42.216Z",
+	"user_5fef985e-6ee6-4be4-a74c-b1a100a8178c_eventCollection_events": []
+}

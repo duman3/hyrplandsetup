@@ -1,0 +1,90 @@
+[
+    {
+        "key": "general:border_size",
+        "value": 2
+    },
+    {
+        "key": "general:gaps_in",
+        "value": 6
+    },
+    {
+        "key": "general:no_border_on_floating",
+        "value": false
+    },
+    {
+        "key": "general:gaps_out",
+        "value": 8
+    },
+    {
+        "key": "decoration:inactive_opacity",
+        "value": 0.8
+    },
+    {
+        "key": "decoration:shadow:enabled",
+        "value": true
+    },
+    {
+        "key": "decoration:shadow:range",
+        "value": 30
+    },
+    {
+        "key": "decoration:shadow:render_power",
+        "value": 3
+    },
+    {
+        "key": "decoration:shadow:ignore_window",
+        "value": true
+    },
+    {
+        "key": "decoration:blur:enabled",
+        "value": true
+    },
+    {
+        "key": "decoration:blur:size",
+        "value": 12
+    },
+    {
+        "key": "decoration:blur:passes",
+        "value": 2
+    },
+    {
+        "key": "decoration:blur:ignore_opacity",
+        "value": true
+    },
+    {
+        "key": "decoration:blur:noise",
+        "value": 0.0
+    },
+    {
+        "key": "decoration:blur:contrast",
+        "value": 0.9
+    },
+    {
+        "key": "decoration:blur:brightness",
+        "value": 1.0
+    },
+    {
+        "key": "decoration:blur:vibrancy",
+        "value": 0.0
+    },
+    {
+        "key": "decoration:blur:vibrancy_darkness",
+        "value": 0.0
+    },
+    {
+        "key": "general:col.active_border",
+        "value": "rgb(92b4da)"
+    },
+    {
+        "key": "general:col.inactive_border",
+        "value": "rgb(2b4f7b)"
+    },
+    {
+        "key": "decoration:active_opacity",
+        "value": 0.9
+    },
+    {
+        "key": "general:gaps_workspaces",
+        "value": 0
+    }
+]
