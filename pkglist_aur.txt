@@ -1,0 +1,17 @@
+balena-etcher
+bibata-cursor-theme-bin
+checkupdates-with-aur
+grimblast-git
+grub-customizer
+hyprshade
+ml4w-hyprland
+nautilus-open-any-terminal
+neofetch
+oh-my-posh-bin
+pacseek
+pinta
+python-screeninfo
+waypaper
+wlogout
+yay
+yay-debug
